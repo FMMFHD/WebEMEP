@@ -1,0 +1,3 @@
+[submodule "General_modules"]
+	path = General_modules
+	url = https://github.com/FMMFHD/General_modules.git
